@@ -13,7 +13,7 @@ homepage = "https://github.com/Stebalien/slug-rs"
 documentation = "https://docs.rs/slug"
 
 [lib]
-crate-type = ["cdylib", "rlib", "dylib"]
+crate-type = ["rlib", "dylib"]
 
 [dependencies]
 deunicode = "1"
